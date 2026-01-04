@@ -1,0 +1,165 @@
+{
+    "budget": 100000.0,
+    "risk_factor": 0.5,
+    "products": [
+        {
+            "id": "1767286200.958057",
+            "name": "Meia",
+            "supplier_cost": 2.0,
+            "operational_cost": 0.5,
+            "stock_on_hand": 5,
+            "min_order_qty": 50,
+            "target_sell_price": 6.0,
+            "manual_sales_estimate": 1,
+            "history": [
+                {
+                    "period": "jan",
+                    "quantity": 120,
+                    "unit_price": 15.0
+                },
+                {
+                    "period": "fev",
+                    "quantity": 100,
+                    "unit_price": 18.0
+                },
+                {
+                    "period": "mar",
+                    "quantity": 140,
+                    "unit_price": 12.0
+                },
+                {
+                    "period": "abr",
+                    "quantity": 90,
+                    "unit_price": 20.0
+                },
+                {
+                    "period": "mai",
+                    "quantity": 110,
+                    "unit_price": 16.5
+                }
+            ]
+        },
+        {
+            "id": "1767287413.606881",
+            "name": "bone",
+            "supplier_cost": 15.0,
+            "operational_cost": 0.5,
+            "stock_on_hand": 10,
+            "min_order_qty": 25,
+            "target_sell_price": 50.0,
+            "manual_sales_estimate": 1,
+            "history": [
+                {
+                    "period": "jan",
+                    "quantity": 80,
+                    "unit_price": 45.0
+                },
+                {
+                    "period": "fev",
+                    "quantity": 72,
+                    "unit_price": 50.0
+                },
+                {
+                    "period": "mar",
+                    "quantity": 95,
+                    "unit_price": 35.0
+                },
+                {
+                    "period": "abr",
+                    "quantity": 60,
+                    "unit_price": 65.0
+                },
+                {
+                    "period": "mai",
+                    "quantity": 78,
+                    "unit_price": 48.0
+                }
+            ]
+        },
+        {
+            "id": "1767287509.784181",
+            "name": "cal\u00e7a",
+            "supplier_cost": 60.0,
+            "operational_cost": 1.0,
+            "stock_on_hand": 10,
+            "min_order_qty": 40,
+            "target_sell_price": 120.0,
+            "manual_sales_estimate": 1,
+            "history": [
+                {
+                    "period": "jan",
+                    "quantity": 60,
+                    "unit_price": 120.0
+                },
+                {
+                    "period": "fev",
+                    "quantity": 55,
+                    "unit_price": 135.0
+                },
+                {
+                    "period": "mar",
+                    "quantity": 75,
+                    "unit_price": 100.0
+                },
+                {
+                    "period": "abr",
+                    "quantity": 45,
+                    "unit_price": 150.0
+                },
+                {
+                    "period": "mai",
+                    "quantity": 58,
+                    "unit_price": 125.0
+                }
+            ]
+        },
+        {
+            "id": "1767287590.283394",
+            "name": "T\u00eanis",
+            "supplier_cost": 120.0,
+            "operational_cost": 2.0,
+            "stock_on_hand": 0,
+            "min_order_qty": 15,
+            "target_sell_price": 250.0,
+            "manual_sales_estimate": 1,
+            "history": [
+                {
+                    "period": "jan",
+                    "quantity": 25,
+                    "unit_price": 299.0
+                },
+                {
+                    "period": "fev",
+                    "quantity": 20,
+                    "unit_price": 349.0
+                },
+                {
+                    "period": "mar",
+                    "quantity": 35,
+                    "unit_price": 249.0
+                },
+                {
+                    "period": "abr",
+                    "quantity": 15,
+                    "unit_price": 399.0
+                },
+                {
+                    "period": "mai",
+                    "quantity": 22,
+                    "unit_price": 310.0
+                }
+            ]
+        },
+        {
+            "id": "1767287695.125862",
+            "name": "Camisa",
+            "supplier_cost": 50.0,
+            "operational_cost": 0.5,
+            "stock_on_hand": 13,
+            "min_order_qty": 30,
+            "target_sell_price": 90.0,
+            "manual_sales_estimate": 40,
+            "history": []
+        }
+    ]
+}
